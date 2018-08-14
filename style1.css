@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+}
+
+p{
+    font-size: 3em;
+    color: #8500a8;
+    position: absolute;
+    text-align: center;
+    top: 15%;
+    width: 100%;
+    line-height: 0.5em;
+}
+
+p1{
+    font-size: 2em;
+    color: #8500a8;
+    position: absolute;
+    text-align: center;
+    top: 27%;
+    width: 100%;
+    line-height: 0.5em;
+}
+p2{
+    font-size: 2em;
+    color: #8500a8;
+    position: absolute;
+    text-align: center;
+    top: 33%;
+    width: 100%;
+    line-height: 0.5em;
+}
+
+
+.btext{
+    color: #f9f3f4;
+    position: absolute;
+    text-align: center;
+    top: 5%;
+    width: 100%;
+    line-height: 0.2em;
+}
+
+h1{
+    font-size: 100px;
+    color: #8c38ff;
+}
+
+
+
+#particles-js{
+    background-image: url('image1.jpg');
+    height: 100vh;
+}
+
+p3{
+    font-size: 1.5em;
+    color: #262626;
+    position: absolute;
+    text-align: center;
+    top: 95% ;
+    width: 100%;
+    line-height: 0.5em;
+}
